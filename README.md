@@ -10,6 +10,8 @@ This repository contains my daily Power BI practice files. Each day, I explore n
 - `Day01_Cleaning1.pbix`
 - `Day01_Cleaning2.pbix`
 - `Day01_RawData.xlsx` *(dataset used)*
+-`Day02_Load and Tranceform.pbix`
+- `Day02_RawData.xlsx` *(dataset used)*
 
 **What I practiced:**
 - Connected Power BI to Excel dataset
