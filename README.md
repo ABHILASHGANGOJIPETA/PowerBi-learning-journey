@@ -26,14 +26,27 @@ This repository contains my daily Power BI practice files. Each day, I explore n
 - Explored different chart types:
   - Clustered bar chart
   - Stacked column chart
-  - Line and area charts
-  - Combo charts
+  - Line charts
+  - Area, stacked area, and 100% stacked area
+  - Hierarchy
+  - Ribbon chart
+  - Waterfall chart
+  - Funnel chart
+  - Pie chart and Donut chart
+  - Donut chart with added URL
+  - Treemap chart
+  - Treemap chart (another way)
+  - Map
+  - Filled map
 - Customized chart formatting:
   - Changed colors and themes
   - Adjusted data labels and axis titles
   - Modified legend placement
 - Applied filters and slicers to make charts interactive
 - Created a small dashboard layout combining multiple visuals
+
+
+
 
 
 ## 🛠 Tools Used
