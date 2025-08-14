@@ -38,6 +38,10 @@ This repository contains my daily Power BI practice files. Each day, I explore n
   - Treemap chart (another way)
   - Map
   - Filled map
+  - Data modeling
+  - Gauge
+  - KPI
+  - Charts
 - Customized chart formatting:
   - Changed colors and themes
   - Adjusted data labels and axis titles
