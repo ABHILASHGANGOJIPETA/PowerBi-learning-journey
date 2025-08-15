@@ -47,7 +47,7 @@ This repository contains my daily Power BI practice files. Each day, I explore n
   - Adjusted data labels and axis titles
   - Modified legend placement
 - Applied filters and slicers to make charts interactive
-- Created a small dashboard layout combining multiple visuals
+- Created a small dashboard layout combining multiple visuals.
 
 
 
