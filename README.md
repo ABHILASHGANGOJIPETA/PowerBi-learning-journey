@@ -49,6 +49,15 @@ This repository contains my daily Power BI practice files. Each day, I explore n
 - Applied filters and slicers to make charts interactive
 - Created a small dashboard layout combining multiple visuals.
 
+- Creating tables with DAX
+  - Bridge table using UNION
+  - Calendar table using visuals
+  - GROUPBY function
+  - SUMMARIZE table
+  - SUMMARIZECOLUMNS
+  - Custom summary tables like summarize_east, summarize_east2
+  - Using FILTER in DAX
+
 
 
 
