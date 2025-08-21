@@ -57,6 +57,30 @@ This repository contains my daily Power BI practice files. Each day, I explore n
   - SUMMARIZECOLUMNS
   - Custom summary tables like summarize_east, summarize_east2
   - Using FILTER in DAX
+ 
+  ## 🚀 Creating Dashboard Visuals using Measures  
+
+- Built interactive **dashboard visuals** in Power BI.  
+- Used **DAX measures** to calculate KPIs and summarize data dynamically.  
+- Combined measures with **charts, cards, and slicers** to create meaningful insights.  
+- Explored how measures help in **real-time filtering and aggregation** within visuals.  
+
+### 🛠 Key Concepts
+- Creating visuals with **Measures instead of calculated columns**.  
+- Using measures in **cards, tables, and charts** for dynamic reporting.  
+- Understanding the difference between **implicit vs explicit measures**.  
+
+### 📌 Example Measures
+```DAX
+Total Sales = SUM(Orders[Sales])
+Average Sales = AVERAGE(Orders[Sales])
+Order Count = COUNTROWS(Orders)
+
+### 📉 Dashboard Highlights
+- KPI cards for **Total Sales, Average Sales, and Order Count**  
+- Bar/column charts to show **category-wise performance**  
+- Slicers for **easy filtering and interactivity**  
+- A clean and professional **dashboard layout**  
 
 
 
