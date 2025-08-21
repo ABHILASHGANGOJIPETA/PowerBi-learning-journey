@@ -70,13 +70,13 @@ This repository contains my daily Power BI practice files. Each day, I explore n
 - Using measures in **cards, tables, and charts** for dynamic reporting.  
 - Understanding the difference between **implicit vs explicit measures**.  
 
-### 📌 Example Measures
+*** Example Measures ***
 ```DAX
-Total Sales = SUM(Orders[Sales])
-Average Sales = AVERAGE(Orders[Sales])
-Order Count = COUNTROWS(Orders)
+- Total Sales = SUM(Orders[Sales])
+- Average Sales = AVERAGE(Orders[Sales])
+- Order Count = COUNTROWS(Orders)
 
-### 📉 Dashboard Highlights
+*** 📉 Dashboard Highlights
 - KPI cards for **Total Sales, Average Sales, and Order Count**  
 - Bar/column charts to show **category-wise performance**  
 - Slicers for **easy filtering and interactivity**  
