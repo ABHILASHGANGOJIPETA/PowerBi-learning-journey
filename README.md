@@ -71,10 +71,10 @@ This repository contains my daily Power BI practice files. Each day, I explore n
 - Understanding the difference between **implicit vs explicit measures**.  
 
 ## 🧾 Example Measures  
-```DAX
-Total Sales = SUM(Orders[Sales])
-Average Sales = AVERAGE(Orders[Sales])
-Order Count = COUNTROWS(Orders)
+- DAX
+- Total Sales = SUM(Orders[Sales])
+- Average Sales = AVERAGE(Orders[Sales])
+- Order Count = COUNTROWS(Orders)
 
 *** 📉 Dashboard Highlights
 - KPI cards for **Total Sales, Average Sales, and Order Count**  
