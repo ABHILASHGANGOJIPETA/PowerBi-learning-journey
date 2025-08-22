@@ -85,24 +85,24 @@ This repository contains my daily Power BI practice files. Each day, I explore n
 - grand_total = SUM(Orders[Sales])
 
 - Percent of Total
-- percent_total = 
-- DIVIDE([grand_total], CALCULATE([grand_total], ALL(Orders)))
+-  percent_total = 
+-  DIVIDE([grand_total], CALCULATE([grand_total], ALL(Orders)))
 
 - Previous Year Total
-- py_total = 
-- CALCULATE([grand_total], SAMEPERIODLASTYEAR(Orders[Order Date]))
+-  py_total = 
+-  CALCULATE([grand_total], SAMEPERIODLASTYEAR(Orders[Order Date]))
 
 - Quarter over Quarter %
-- qoq% =
-- DIVIDE([grand_total] - [py_total], [py_total])
+-  qoq% =
+-  DIVIDE([grand_total] - [py_total], [py_total])
 
 - Year over Year %
-- yoy% =
-- DIVIDE([grand_total] - [py_total], [py_total])
+-  yoy% =
+-  DIVIDE([grand_total] - [py_total], [py_total])
 
 - Selection Total
-- selection_total = 
-- CALCULATE([grand_total], ALLSELECTED(Orders))
+-  selection_total = 
+-  CALCULATE([grand_total], ALLSELECTED(Orders))
 
 
 
