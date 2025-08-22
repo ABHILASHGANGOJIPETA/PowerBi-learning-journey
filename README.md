@@ -74,38 +74,35 @@ This repository contains my daily Power BI practice files. Each day, I explore n
 - Slicers for **easy filtering and interactivity**  
 - A clean and professional **dashboard layout**
 
-  
-## 🔹 Today’s Work
-
 - Implemented **Decomposition Tree** for drill-down analysis.  
 - Used **Q&A Visual** for natural language queries.  
 - Explored **AI Visuals (Scatter Chart)** for trend insights.  
 
 ## 🧮 Created Measures
 
-```DAX
--- Grand Total
-grand_total = SUM(Orders[Sales])
+- DAX
+- Grand Total
+- grand_total = SUM(Orders[Sales])
 
--- Percent of Total
-percent_total = 
-DIVIDE([grand_total], CALCULATE([grand_total], ALL(Orders)))
+- Percent of Total
+- percent_total = 
+- DIVIDE([grand_total], CALCULATE([grand_total], ALL(Orders)))
 
--- Previous Year Total
-py_total = 
-CALCULATE([grand_total], SAMEPERIODLASTYEAR(Orders[Order Date]))
+- Previous Year Total
+- py_total = 
+- CALCULATE([grand_total], SAMEPERIODLASTYEAR(Orders[Order Date]))
 
--- Quarter over Quarter %
-qoq% =
-DIVIDE([grand_total] - [py_total], [py_total])
+- Quarter over Quarter %
+- qoq% =
+- DIVIDE([grand_total] - [py_total], [py_total])
 
--- Year over Year %
-yoy% =
-DIVIDE([grand_total] - [py_total], [py_total])
+- Year over Year %
+- yoy% =
+- DIVIDE([grand_total] - [py_total], [py_total])
 
--- Selection Total
-selection_total = 
-CALCULATE([grand_total], ALLSELECTED(Orders))
+- Selection Total
+- selection_total = 
+- CALCULATE([grand_total], ALLSELECTED(Orders))
 
 
 
