@@ -104,7 +104,11 @@ This repository contains my daily Power BI practice files. Each day, I explore n
 -  selection_total = 
 -  CALCULATE([grand_total], ALLSELECTED(Orders))
 
+## 📈 Key Learnings
 
+- Leveraged AI visuals for deeper insights.
+- Applied time intelligence functions for QoQ and YoY comparisons.
+- Enhanced interactivity with decomposition tree & Q&A features.
 
 
 ## 🛠 Tools Used
