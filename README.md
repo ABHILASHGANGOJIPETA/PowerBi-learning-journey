@@ -1,7 +1,6 @@
 # 📊 Daily Power BI Practice
 
 This repository contains my daily Power BI practice files. Each day, I explore new features, build dashboards, and improve my data analysis skills using Power BI Desktop.
-
 ---
 
 ## 🗓️ Daily ##
