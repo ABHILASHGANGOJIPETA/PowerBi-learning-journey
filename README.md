@@ -109,7 +109,15 @@ This repository contains my daily Power BI practice files. Each day, I explore n
 - Applied time intelligence functions for QoQ and YoY comparisons.
 - Enhanced interactivity with decomposition tree & Q&A features.
 
+### ✅ Topics Covered Today  
 
+- **CYTD, CMTD, and CQTD** (Current Year/Month/Quarter to Date)  
+- **YTD, MTD, QTD** (Year/Month/Quarter to Date)  
+- **PMTD, PQTD, PYTD** (Previous Month/Quarter/Year to Date)  
+- **SPLYMTD, SPLQTD, SPLYYTD** (Same Period Last Year – Month, Quarter, Year)  
+- **LOOKUPVALUE Function**  
+- **Column Tools in Power BI**  
+- **RETURN and RELATED in DAX**  
 ## 🛠 Tools Used
 - Power BI Desktop
 
