@@ -117,6 +117,15 @@ This repository contains my daily Power BI practice files. Each day, I explore n
 - **LOOKUPVALUE Function**  
 - **Column Tools in Power BI**  
 - **RETURN and RELATED in DAX**  
+
+✅ Topics Covered  
+- R Script Integration  
+- Python Script Integration  
+- What-If Parameters  
+- Decomposition Tree (AI Visual)  
+- Q&A Visual  
+- Report Page Tooltips
+
 ## 🛠 Tools Used
 - Power BI Desktop
 
