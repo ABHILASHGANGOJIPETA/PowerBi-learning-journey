@@ -6,7 +6,7 @@ This repository contains my daily Power BI practice files. Each day, I explore n
 
 **What I practiced:**
 - Connected Power BI to Excel dataset
-- Cleaned raw data using Power Query:
+- Cleaned raw data using Power Query: 
   - Removed null values
   - Renamed inconsistent column headers
   - Changed data types
